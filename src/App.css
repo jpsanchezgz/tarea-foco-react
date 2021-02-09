@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+.foco{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  border: solid 1px black;
+}
+.foco-on { 
+  background-color: yellow;
+}
+
